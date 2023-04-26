@@ -1,0 +1,23 @@
+[
+	{
+		"id": "stat-1",
+		"start": 8800,
+		"end": 9000,
+		"duration": 4,
+		"title": "Premium Product"
+	},
+	{
+		"id": "stat-2",
+		"start": 1950,
+		"end": 2000,
+		"duration": 4,
+		"title": "Happy Customer"
+	},
+	{
+		"id": "stat-3",
+		"start": 0,
+		"end": 28,
+		"duration": 3,
+		"title": "Awards Winning"
+	}
+]

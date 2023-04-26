@@ -1,0 +1,22 @@
+[
+	{
+		"id": "company-1",
+		"image": "/prologis.png",
+		"alt": "Prologis"
+	},
+	{
+		"id": "company-2",
+		"image": "/tower.png",
+		"alt": "Tower"
+	},
+	{
+		"id": "company-3",
+		"image": "/equinix.png",
+		"alt": "Equinix"
+	},
+	{
+		"id": "company-4",
+		"image": "/realty.png",
+		"alt": "Realty"
+	}
+]
