@@ -39,3 +39,33 @@
 .accordionItem.expanded {
     box-shadow: var(--shadow);
 }
+
+@media(max-width: 1024px) {
+    .v-container {
+        flex-direction: column;
+    }
+
+}
+@media(max-width: 768px) {
+    .accordionButton .primaryText {
+        font-size: 0.8rem;
+    }
+}
+
+@media (max-width: 380px) {
+    .accordionButton .primaryText {
+        font-size: 0.7rem;
+    }
+}
+
+@media (max-width: 300px) {
+    .accordionButton .primaryText {
+        font-size: 0.6rem;
+    }
+    .accordionButton .icon:nth-child(1) {
+        display: none;
+    }
+    .accordionButton .icon:last-child {
+        padding: 5px;
+    }
+}

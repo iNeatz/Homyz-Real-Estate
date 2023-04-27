@@ -13,4 +13,5 @@
 	background: rgba(255, 255, 255, 0.501);
     border-radius: 50%;
     filter: blur(210px);
+	pointer-events: none;
 }
