@@ -3,7 +3,7 @@ import contactList from '../../utils/contactList'
 
 const Contact = () => {
 	return (
-		<section className='c-wrapper'>
+		<section className='c-wrapper' id='contact'>
 			<div className='paddings innerWidth flexCenter c-container'>
 				{/* left side */}
 				<div className='flexColStart c-left'>
